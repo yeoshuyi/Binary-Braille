@@ -1,7 +1,7 @@
 # Binary-Braille
 
 ## Description
-> _Submission for the Beyond Binary competition by the Binary Babes_
+> _Submission for the Beyond Binary competition by the Binary Babes_<br>
 **Binary-Braille** is a specialized assistive wearable designed for individuals who are **both deaf and blind**, providing a tactile bridge to the auditory world. By leveraging microcontrollers and advanced audio processing, the device translates real-time speech and environmental sounds into haptic and Braille feedback.
 
 Our primary mission is to restore independence and safety to the deaf-blind community. Traditional communication methods for this demographic often require a physical intermediary (like tactile signing); Binary-Braille automates this process, allowing users to "feel" conversations and remain aware of their surroundings through a refreshable Braille interface and targeted vibration alerts.
