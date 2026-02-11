@@ -98,3 +98,6 @@ git clone https://github.com/ant0nisk/pybrl.git
 │   └── placeholder.txt
 └── settings.toml
 ```
+
+### Usage
+> The ESP-32 loads the code upon update automatically. No action by the user is needed.
